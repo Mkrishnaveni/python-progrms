@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<company>
+	<name>Zippyops Consulting Services</name>
+	<staff id="1001">
+		<nickname>Charlie</nickname>
+		<salary>100,000</salary>
+	</staff>
+	<staff id="1003">
+		<nickname>Steffi</nickname>
+		<salary>20,000</salary>
+	</staff>
+</company>
